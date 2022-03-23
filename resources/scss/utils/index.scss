@@ -1,0 +1,27 @@
+.required-label{
+    color:red;
+}
+
+.form-row{
+    margin-bottom:2%;
+}
+
+.validation-error, .validation-error:focus{
+    border-color:red;
+}
+
+.box-content-laudo{
+    border:1px solid black;
+    height: 90vh;
+    overflow-y: auto;
+}
+
+.box-content-laudo-small{
+    border:1px solid black;
+    height: 30vh;
+    overflow-y: auto;
+}
+
+.cols-example{
+    border:1px solid black;
+}
